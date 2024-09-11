@@ -1,0 +1,2 @@
+# webpack_code_devserver
+基于webpack5，在使用webpack_devServer，打开开发服务的一些配置，本地代码保存后无需每次打包，页面热更新直接看到最新资源
