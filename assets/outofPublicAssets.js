@@ -1,0 +1,1 @@
+console.log('这里是assets中的打印')
